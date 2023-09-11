@@ -138,6 +138,15 @@ int Student::readFile()
 
         int maxtime = stoi(record[7]); // it takes the string from record[7], converts it into an integer, and assigns that integer value to the variable maxtime
 
+        if(stoi(record[0]) == 11){
+            system("CLS");
+            setcolor(PINK);
+            CoutCentered("GEAR UP FOR NEXT LEVEL...");
+            setcolor(NORMAL);
+            _getch();
+            system("CLS");
+        }
+
         while (maxtime != 0)
         {
             system("CLS");

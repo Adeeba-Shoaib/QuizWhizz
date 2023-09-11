@@ -1,4 +1,4 @@
-# QUIZWIZZ
+# QUIZWHIZZ
 This is an interactive console based quizz application. A user can play this game where he will be presented with questions on screen console with four options to choose from in a given time shown by the timer on the screen, if a user chooses right answer in given time then, he will be awarded some points else the game will terminate.
 
 ### RULES
