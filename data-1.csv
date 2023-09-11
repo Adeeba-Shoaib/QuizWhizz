@@ -1,0 +1,21 @@
+SNO$QUESTION$OPTION1$OPTION2$OPTION3$OPTION4$CORRECT$TIME$SCORE
+1$On which data model MySQL is based on?$Object Data Model$Relational Data Model$Network Data Model$Hierarchical Data Model$Relational Data Model$20$2$
+2$Which of the following is NOT a software development life cycle model?$Waterfall$Agile$Spiral$Virtual Reality$Virtual Reality$20$2$
+3$Which programming language is known for its use in developing web applications and is often used on both the client and server sides?$Java$C++$Python$JavaScript$JavaScript$20$2$
+4$What is the purpose of version control systems like Git?$To manage project budgets$To track and manage changes to source code$To optimize database performance$To create graphical user interfaces$To track and manage changes to source code$20$2$
+5$Which type of testing focuses on identifying defects or issues in a software application's user interface?$Unit testing$Integration testing$User acceptance testing$Load testing$User acceptance testing$20$2$
+6$Which software development process emphasizes adaptability, collaboration and customer feedback, and often involves short development cycles called sprints?$Waterfall$Agile$Scrum$Spiral$Agile$20$2$
+7$What does "API" stand for in software development?$Advanced Programming Interface$Application Program Integration$Application Programming Interface$Advanced Program Interaction$Application Programming Interface$20$2$
+8$Which design principle in object-oriented programming promotes the idea that objects should be open for extension but closed for modification?$Inheritance$Abstraction$Encapsulation$Open-Closed Principle$Open-Closed Principle$20$2$
+9$What is the purpose of a compiler in software development?$To execute a program$To translate source code into machine code$To debug a program$To design user interfaces$To translate source code into machine code$20$2$
+10$Which software development methodology places a strong emphasis on extensive documentation, formal processes, and thorough planning before coding begins?$Scrum$Extreme Programming (XP)$Waterfall$Lean Development$Waterfall$20$2$
+11$What is the primary purpose of an operating system?$Managing hardware resources$Running applications$Managing user data$Providing security services$Managing hardware resources$30$3$
+12$Which of the following is not a primary function of a DBMS?$Data storage$Data retrieval$Data visualization$Data manipulation$Data visualization$30$3$
+13$In object-oriented programming, what is encapsulation?$The process of converting objects into bytes$The process of hiding the internal details of an object$The process of creating a new object from an existing one$The process of defining a class$The process of hiding the internal details of an object$30$3$
+14$Which programming language is not considered an object-oriented language?$Java$C++$Python$Assembly language$Assembly language$30$3$
+15$What is the purpose of a constructor in OOP?$To initialize class variables$To create a new object$To perform mathematical operations$To print output$To initialize class variables$30$3$
+16$Which of the following is not a fundamental data type in most programming languages?$Integer$Float$Date$Boolean$Date$30$3$
+17$What is the primary role of a compiler in programming?$Executing code line by line$Translating high-level code to machine code$Managing memory allocation$Debugging code$Translating high-level code to machine code$30$3$
+18$Which of the following is not a characteristic of a relational database?$Data stored in tables$Data organized in rows and columns$Support for complex data types$Use of SQL for querying$Support for complex data types$30$3$
+19$In OOP, what does the "super" keyword typically refer to?$A superclass$A method with no implementation$A child class$A static variable$A superclass$30$3$
+20$What is a mutex in the context of multi-threading?$A data structure used to store thread priorities$A mechanism for protecting critical sections of code$A type of thread scheduling algorithm$A thread-safe data structure$A mechanism for protecting critical sections of code$30$3$
